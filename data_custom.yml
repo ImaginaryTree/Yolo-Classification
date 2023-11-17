@@ -1,0 +1,6 @@
+train: D:\python\conda\VISKOM\uts\train
+val: D:\python\conda\VISKOM\uts\val
+
+nc: 2
+
+names: ["Cat", "Dog"]
